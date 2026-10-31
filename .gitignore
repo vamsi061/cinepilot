@@ -8,3 +8,6 @@
 
 # Large reverse-engineering evidence dumps
 .rea-evidence/jiohome-dex-fields-methods.txt
+
+# Local Android SDK configuration
+local.properties
