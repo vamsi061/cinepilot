@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.cinepilot.app.device.GattReportFormatterTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-10-31T14:46:41" hostname="MacBook-Air.local" time="0.003">
+<testsuite name="com.cinepilot.app.device.GattReportFormatterTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-10-31T17:30:27" hostname="MacBook-Air.local" time="0.004">
   <properties/>
-  <testcase name="describes property bitmask correctly" classname="com.cinepilot.app.device.GattReportFormatterTest" time="0.0"/>
-  <testcase name="formats a disconnected result" classname="com.cinepilot.app.device.GattReportFormatterTest" time="0.001"/>
+  <testcase name="describes property bitmask correctly" classname="com.cinepilot.app.device.GattReportFormatterTest" time="0.001"/>
+  <testcase name="formats a disconnected result" classname="com.cinepilot.app.device.GattReportFormatterTest" time="0.0"/>
   <testcase name="formats a permission denied result" classname="com.cinepilot.app.device.GattReportFormatterTest" time="0.0"/>
   <testcase name="describes zero properties as NONE" classname="com.cinepilot.app.device.GattReportFormatterTest" time="0.0"/>
   <testcase name="formats a timeout result" classname="com.cinepilot.app.device.GattReportFormatterTest" time="0.0"/>
-  <testcase name="formats a success result with services" classname="com.cinepilot.app.device.GattReportFormatterTest" time="0.002"/>
+  <testcase name="formats a success result with services" classname="com.cinepilot.app.device.GattReportFormatterTest" time="0.003"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

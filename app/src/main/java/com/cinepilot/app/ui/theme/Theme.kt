@@ -1,25 +1,27 @@
 package com.cinepilot.app.ui.theme
 
 import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.darkColorScheme
+import androidx.compose.material3.lightColorScheme
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.graphics.Color
 
-private val CinePilotColors = darkColorScheme(
-    primary = Color(0xFF00B4D8),
-    onPrimary = Color(0xFF001019),
-    primaryContainer = Color(0xFF003544),
-    onPrimaryContainer = Color(0xFFBDE9FF),
-    secondary = Color(0xFFFFB74D),
-    onSecondary = Color(0xFF2A1700),
-    background = Color(0xFF0A1128),
-    onBackground = Color(0xFFE6EAF2),
-    surface = Color(0xFF121A33),
-    onSurface = Color(0xFFE6EAF2),
-    surfaceVariant = Color(0xFF1C2542),
-    onSurfaceVariant = Color(0xFFB8C0D9),
-    error = Color(0xFFFF6B6B),
-    onError = Color(0xFF2A0000)
+private val CinePilotColors = lightColorScheme(
+    primary = Color(0xFF007C91),
+    onPrimary = Color.White,
+    primaryContainer = Color(0xFFB9F1F8),
+    onPrimaryContainer = Color(0xFF002B32),
+    secondary = Color(0xFF356A73),
+    onSecondary = Color.White,
+    secondaryContainer = Color(0xFFC5F0F5),
+    onSecondaryContainer = Color(0xFF07363D),
+    background = Color(0xFFF8FBFC),
+    onBackground = Color(0xFF172124),
+    surface = Color.White,
+    onSurface = Color(0xFF172124),
+    surfaceVariant = Color(0xFFE7F2F4),
+    onSurfaceVariant = Color(0xFF405054),
+    error = Color(0xFFBA1A1A),
+    onError = Color.White
 )
 
 @Composable

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.cinepilot.app.domain.IntentParserTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2026-10-31T14:46:41" hostname="MacBook-Air.local" time="0.005">
+<testsuite name="com.cinepilot.app.domain.IntentParserTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2026-10-31T17:30:27" hostname="MacBook-Air.local" time="0.008">
   <properties/>
-  <testcase name="malformed json falls back" classname="com.cinepilot.app.domain.IntentParserTest" time="0.003"/>
-  <testcase name="parses a well formed response" classname="com.cinepilot.app.domain.IntentParserTest" time="0.001"/>
+  <testcase name="malformed json falls back" classname="com.cinepilot.app.domain.IntentParserTest" time="0.004"/>
+  <testcase name="parses a well formed response" classname="com.cinepilot.app.domain.IntentParserTest" time="0.003"/>
   <testcase name="unknown intent name falls back and keeps the utterance" classname="com.cinepilot.app.domain.IntentParserTest" time="0.0"/>
   <testcase name="confidence defaults when absent" classname="com.cinepilot.app.domain.IntentParserTest" time="0.0"/>
   <testcase name="maps an unknown streaming service to UNKNOWN" classname="com.cinepilot.app.domain.IntentParserTest" time="0.0"/>

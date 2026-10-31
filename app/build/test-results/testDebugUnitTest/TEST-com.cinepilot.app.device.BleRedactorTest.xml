@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.cinepilot.app.device.BleRedactorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-10-31T14:46:41" hostname="MacBook-Air.local" time="0.012">
+<testsuite name="com.cinepilot.app.device.BleRedactorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-10-31T17:30:26" hostname="MacBook-Air.local" time="0.014">
   <properties/>
-  <testcase name="redacts a standard MAC address keeping last two octets" classname="com.cinepilot.app.device.BleRedactorTest" time="0.008"/>
+  <testcase name="redacts a standard MAC address keeping last two octets" classname="com.cinepilot.app.device.BleRedactorTest" time="0.012"/>
   <testcase name="redacts an empty string" classname="com.cinepilot.app.device.BleRedactorTest" time="0.0"/>
   <testcase name="redacts a short address gracefully" classname="com.cinepilot.app.device.BleRedactorTest" time="0.0"/>
-  <testcase name="labels a custom UUID with truncation" classname="com.cinepilot.app.device.BleRedactorTest" time="0.002"/>
-  <testcase name="labels a SIG 16-bit UUID" classname="com.cinepilot.app.device.BleRedactorTest" time="0.001"/>
+  <testcase name="labels a custom UUID with truncation" classname="com.cinepilot.app.device.BleRedactorTest" time="0.001"/>
+  <testcase name="labels a SIG 16-bit UUID" classname="com.cinepilot.app.device.BleRedactorTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

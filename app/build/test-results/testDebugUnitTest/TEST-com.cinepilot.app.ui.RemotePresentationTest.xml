@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cinepilot.app.ui.RemotePresentationTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-31T17:30:27" hostname="MacBook-Air.local" time="0.001">
+  <properties/>
+  <testcase name="connection labels never imply a connected unverified session" classname="com.cinepilot.app.ui.RemotePresentationTest" time="0.0"/>
+  <testcase name="verified capabilities enable only the advertised key" classname="com.cinepilot.app.ui.RemotePresentationTest" time="0.0"/>
+  <testcase name="unverified controller keeps every remote key disabled" classname="com.cinepilot.app.ui.RemotePresentationTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
