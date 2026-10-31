@@ -1,0 +1,387 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:2:1-49:12
+MERGED from [androidx.compose.material3:material3-android:1.3.0] /Users/vamsi/.gradle/caches/8.9/transforms/d1811e061cdba2eea6014e95056c2066/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/82cb94e55ecdab2786696838162de805/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/7565052d91bb75694f959258e7fa9e15/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/125f33ce55401ef63e47b9305571cf1a/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/71ce98c9e19d83051858736498b965ec/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/3b26740f48b51760e33afec29e335a1a/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/28331785e8a3a8263a731eb709f01c41/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/ddf05d458b22aab75dd03257bb5fc737/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/bbcdcd81f33521f04f6cca6ca72d2b3a/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/d84d414b3b16d1e44b2e70948b460580/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/d52dc82b515286b9c9da3a21e0a10c12/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/61266b6ca10c4bbeb727cc84854ca3f3/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/ae79e660616590c6cddd2c70d66d5a7e/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/e275745fb2af426ba3d44ed5bc19ea9c/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/d50c462ac896de1c5f9039eea50f49dc/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/55e58590acde2c9e5c02ef5ff91b38ea/transformed/ui-test-manifest-1.7.3/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity:1.9.2] /Users/vamsi/.gradle/caches/8.9/transforms/4452a85c089e588c08912177eb89fcb6/transformed/activity-1.9.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.9.2] /Users/vamsi/.gradle/caches/8.9/transforms/d90cf2f7abec3dccc7434bf2de5353de/transformed/activity-ktx-1.9.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.9.2] /Users/vamsi/.gradle/caches/8.9/transforms/d269eaa05e8a30e7cd844d21cf2cc84a/transformed/activity-compose-1.9.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/5badfa1f180fcbaf2a4d5e45c15f7e1c/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/d315387560b9525aa180d93009bd9cb5/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/vamsi/.gradle/caches/8.9/transforms/dc80a6a7c1696a5d3a4542d80df85f4e/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/vamsi/.gradle/caches/8.9/transforms/ea49d76fb86d7d9103319820f7d9fdb6/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/vamsi/.gradle/caches/8.9/transforms/c6411e28a07ee30e5365a579d7a72671/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/79daa0bd70b8462285be90bd2e5109e7/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/vamsi/.gradle/caches/8.9/transforms/ea311bc3312629240fc7c0f9179384d1/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/vamsi/.gradle/caches/8.9/transforms/20094572a1826441f5a0f895a65950cb/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/vamsi/.gradle/caches/8.9/transforms/123d76c260a49dfdcfd475ba9f66fcb9/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/ccc8f7ccaabc56a9795de10aa92eb897/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/973a45e0c5182baf93dc2415fa8f7128/transformed/lifecycle-livedata-core-2.8.6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/51d7a2e186f5cac95322df6e09fa8c0a/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/5b34a921c3d61bd41f27b5fc836153f9/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/de66eddd05614b26b78c5e711e6a6113/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/3ac35a8ab2b9a1a886f77068cf6e3ffe/transformed/lifecycle-viewmodel-ktx-2.8.6/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/c7ed2436801809f4bd56ca31e4edec86/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/e7c1e8a1a9921d3aa0a6ac5316b823ea/transformed/lifecycle-viewmodel-savedstate-2.8.6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/21a692a3e4c4a51bea2948bd35f9eee0/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/c9caa121645731723cccd70325f8be3c/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/5e295f6b55dfa0fcce301cb094acef82/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vamsi/.gradle/caches/8.9/transforms/ebc04f05c34a21365384c3b5f48ca914/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/vamsi/.gradle/caches/8.9/transforms/33d21b750e12679a1fbe1c06221124e6/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vamsi/.gradle/caches/8.9/transforms/90786f57c58b7385fd224cc636b5611e/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vamsi/.gradle/caches/8.9/transforms/c466bf75ffd018408c54badcbe37ecf1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/vamsi/.gradle/caches/8.9/transforms/18387f5cbbad8d13f200123727a5fa37/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/vamsi/.gradle/caches/8.9/transforms/e26065578abe18ce662f5555bddc730a/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:8:5-95
+	android:maxSdkVersion
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:8:66-92
+	android:name
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:8:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:9:5-101
+	android:maxSdkVersion
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:9:72-98
+	android:name
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:9:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:10:5-106
+	android:maxSdkVersion
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:10:77-103
+	android:name
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:11:5-12:58
+	android:usesPermissionFlags
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:12:9-55
+	android:name
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:11:22-70
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:13:22-73
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:15:5-91
+	android:required
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:15:64-88
+	android:name
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:15:19-63
+uses-feature#android.hardware.microphone
+ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:16:5-88
+	android:required
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:16:62-85
+	android:name
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:16:19-61
+queries
+ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:21:5-27:15
+package#com.jio.home
+ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:22:9-48
+	android:name
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:22:18-45
+intent#action:name:com.jio.btremoteapp.action.OPEN_BT_REMOTE+category:name:android.intent.category.DEFAULT
+ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:23:9-26:18
+action#com.jio.btremoteapp.action.OPEN_BT_REMOTE
+ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:24:13-80
+	android:name
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:24:21-77
+category#android.intent.category.DEFAULT
+ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:25:13-72
+	android:name
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:25:23-69
+application
+ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:29:5-48:19
+INJECTED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:29:5-48:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/e275745fb2af426ba3d44ed5bc19ea9c/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/e275745fb2af426ba3d44ed5bc19ea9c/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/55e58590acde2c9e5c02ef5ff91b38ea/transformed/ui-test-manifest-1.7.3/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/55e58590acde2c9e5c02ef5ff91b38ea/transformed/ui-test-manifest-1.7.3/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/vamsi/.gradle/caches/8.9/transforms/c6411e28a07ee30e5365a579d7a72671/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/vamsi/.gradle/caches/8.9/transforms/c6411e28a07ee30e5365a579d7a72671/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/79daa0bd70b8462285be90bd2e5109e7/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/79daa0bd70b8462285be90bd2e5109e7/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/ccc8f7ccaabc56a9795de10aa92eb897/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/ccc8f7ccaabc56a9795de10aa92eb897/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vamsi/.gradle/caches/8.9/transforms/ebc04f05c34a21365384c3b5f48ca914/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vamsi/.gradle/caches/8.9/transforms/ebc04f05c34a21365384c3b5f48ca914/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vamsi/.gradle/caches/8.9/transforms/c466bf75ffd018408c54badcbe37ecf1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vamsi/.gradle/caches/8.9/transforms/c466bf75ffd018408c54badcbe37ecf1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/79daa0bd70b8462285be90bd2e5109e7/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:33:9-35
+	android:label
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:32:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:35:9-43
+	android:allowBackup
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:31:9-36
+	android:theme
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:34:9-47
+	android:name
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:30:9-45
+activity#com.cinepilot.app.ui.MainActivity
+ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:37:9-47:20
+	android:screenOrientation
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:41:13-49
+	android:launchMode
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:40:13-43
+	android:windowSoftInputMode
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:42:13-55
+	android:exported
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:38:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:43:13-46:29
+action#android.intent.action.MAIN
+ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:45:27-74
+uses-sdk
+INJECTED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml
+MERGED from [androidx.compose.material3:material3-android:1.3.0] /Users/vamsi/.gradle/caches/8.9/transforms/d1811e061cdba2eea6014e95056c2066/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] /Users/vamsi/.gradle/caches/8.9/transforms/d1811e061cdba2eea6014e95056c2066/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/82cb94e55ecdab2786696838162de805/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/82cb94e55ecdab2786696838162de805/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/7565052d91bb75694f959258e7fa9e15/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/7565052d91bb75694f959258e7fa9e15/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/125f33ce55401ef63e47b9305571cf1a/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/125f33ce55401ef63e47b9305571cf1a/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/71ce98c9e19d83051858736498b965ec/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/71ce98c9e19d83051858736498b965ec/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/3b26740f48b51760e33afec29e335a1a/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/3b26740f48b51760e33afec29e335a1a/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/28331785e8a3a8263a731eb709f01c41/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/28331785e8a3a8263a731eb709f01c41/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/ddf05d458b22aab75dd03257bb5fc737/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/ddf05d458b22aab75dd03257bb5fc737/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/bbcdcd81f33521f04f6cca6ca72d2b3a/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/bbcdcd81f33521f04f6cca6ca72d2b3a/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/d84d414b3b16d1e44b2e70948b460580/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/d84d414b3b16d1e44b2e70948b460580/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/d52dc82b515286b9c9da3a21e0a10c12/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/d52dc82b515286b9c9da3a21e0a10c12/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/61266b6ca10c4bbeb727cc84854ca3f3/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/61266b6ca10c4bbeb727cc84854ca3f3/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/ae79e660616590c6cddd2c70d66d5a7e/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/ae79e660616590c6cddd2c70d66d5a7e/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/e275745fb2af426ba3d44ed5bc19ea9c/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/e275745fb2af426ba3d44ed5bc19ea9c/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/d50c462ac896de1c5f9039eea50f49dc/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/d50c462ac896de1c5f9039eea50f49dc/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/55e58590acde2c9e5c02ef5ff91b38ea/transformed/ui-test-manifest-1.7.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/55e58590acde2c9e5c02ef5ff91b38ea/transformed/ui-test-manifest-1.7.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.2] /Users/vamsi/.gradle/caches/8.9/transforms/4452a85c089e588c08912177eb89fcb6/transformed/activity-1.9.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.2] /Users/vamsi/.gradle/caches/8.9/transforms/4452a85c089e588c08912177eb89fcb6/transformed/activity-1.9.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.2] /Users/vamsi/.gradle/caches/8.9/transforms/d90cf2f7abec3dccc7434bf2de5353de/transformed/activity-ktx-1.9.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.2] /Users/vamsi/.gradle/caches/8.9/transforms/d90cf2f7abec3dccc7434bf2de5353de/transformed/activity-ktx-1.9.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.2] /Users/vamsi/.gradle/caches/8.9/transforms/d269eaa05e8a30e7cd844d21cf2cc84a/transformed/activity-compose-1.9.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.2] /Users/vamsi/.gradle/caches/8.9/transforms/d269eaa05e8a30e7cd844d21cf2cc84a/transformed/activity-compose-1.9.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/5badfa1f180fcbaf2a4d5e45c15f7e1c/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/5badfa1f180fcbaf2a4d5e45c15f7e1c/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/d315387560b9525aa180d93009bd9cb5/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/d315387560b9525aa180d93009bd9cb5/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/vamsi/.gradle/caches/8.9/transforms/dc80a6a7c1696a5d3a4542d80df85f4e/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/vamsi/.gradle/caches/8.9/transforms/dc80a6a7c1696a5d3a4542d80df85f4e/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/vamsi/.gradle/caches/8.9/transforms/ea49d76fb86d7d9103319820f7d9fdb6/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/vamsi/.gradle/caches/8.9/transforms/ea49d76fb86d7d9103319820f7d9fdb6/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/vamsi/.gradle/caches/8.9/transforms/c6411e28a07ee30e5365a579d7a72671/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/vamsi/.gradle/caches/8.9/transforms/c6411e28a07ee30e5365a579d7a72671/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/79daa0bd70b8462285be90bd2e5109e7/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/79daa0bd70b8462285be90bd2e5109e7/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/vamsi/.gradle/caches/8.9/transforms/ea311bc3312629240fc7c0f9179384d1/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/vamsi/.gradle/caches/8.9/transforms/ea311bc3312629240fc7c0f9179384d1/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/vamsi/.gradle/caches/8.9/transforms/20094572a1826441f5a0f895a65950cb/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/vamsi/.gradle/caches/8.9/transforms/20094572a1826441f5a0f895a65950cb/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/vamsi/.gradle/caches/8.9/transforms/123d76c260a49dfdcfd475ba9f66fcb9/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/vamsi/.gradle/caches/8.9/transforms/123d76c260a49dfdcfd475ba9f66fcb9/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/ccc8f7ccaabc56a9795de10aa92eb897/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/ccc8f7ccaabc56a9795de10aa92eb897/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/973a45e0c5182baf93dc2415fa8f7128/transformed/lifecycle-livedata-core-2.8.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/973a45e0c5182baf93dc2415fa8f7128/transformed/lifecycle-livedata-core-2.8.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/51d7a2e186f5cac95322df6e09fa8c0a/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/51d7a2e186f5cac95322df6e09fa8c0a/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/5b34a921c3d61bd41f27b5fc836153f9/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/5b34a921c3d61bd41f27b5fc836153f9/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/de66eddd05614b26b78c5e711e6a6113/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/de66eddd05614b26b78c5e711e6a6113/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/3ac35a8ab2b9a1a886f77068cf6e3ffe/transformed/lifecycle-viewmodel-ktx-2.8.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/3ac35a8ab2b9a1a886f77068cf6e3ffe/transformed/lifecycle-viewmodel-ktx-2.8.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/c7ed2436801809f4bd56ca31e4edec86/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/c7ed2436801809f4bd56ca31e4edec86/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/e7c1e8a1a9921d3aa0a6ac5316b823ea/transformed/lifecycle-viewmodel-savedstate-2.8.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/e7c1e8a1a9921d3aa0a6ac5316b823ea/transformed/lifecycle-viewmodel-savedstate-2.8.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/21a692a3e4c4a51bea2948bd35f9eee0/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/21a692a3e4c4a51bea2948bd35f9eee0/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/c9caa121645731723cccd70325f8be3c/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/c9caa121645731723cccd70325f8be3c/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/5e295f6b55dfa0fcce301cb094acef82/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/5e295f6b55dfa0fcce301cb094acef82/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vamsi/.gradle/caches/8.9/transforms/ebc04f05c34a21365384c3b5f48ca914/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vamsi/.gradle/caches/8.9/transforms/ebc04f05c34a21365384c3b5f48ca914/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/vamsi/.gradle/caches/8.9/transforms/33d21b750e12679a1fbe1c06221124e6/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/vamsi/.gradle/caches/8.9/transforms/33d21b750e12679a1fbe1c06221124e6/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vamsi/.gradle/caches/8.9/transforms/90786f57c58b7385fd224cc636b5611e/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vamsi/.gradle/caches/8.9/transforms/90786f57c58b7385fd224cc636b5611e/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vamsi/.gradle/caches/8.9/transforms/c466bf75ffd018408c54badcbe37ecf1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vamsi/.gradle/caches/8.9/transforms/c466bf75ffd018408c54badcbe37ecf1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/vamsi/.gradle/caches/8.9/transforms/18387f5cbbad8d13f200123727a5fa37/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/vamsi/.gradle/caches/8.9/transforms/18387f5cbbad8d13f200123727a5fa37/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/vamsi/.gradle/caches/8.9/transforms/e26065578abe18ce662f5555bddc730a/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/vamsi/.gradle/caches/8.9/transforms/e26065578abe18ce662f5555bddc730a/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/e275745fb2af426ba3d44ed5bc19ea9c/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/e275745fb2af426ba3d44ed5bc19ea9c/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/e275745fb2af426ba3d44ed5bc19ea9c/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/55e58590acde2c9e5c02ef5ff91b38ea/transformed/ui-test-manifest-1.7.3/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/55e58590acde2c9e5c02ef5ff91b38ea/transformed/ui-test-manifest-1.7.3/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/55e58590acde2c9e5c02ef5ff91b38ea/transformed/ui-test-manifest-1.7.3/AndroidManifest.xml:24:13-63
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/vamsi/.gradle/caches/8.9/transforms/c6411e28a07ee30e5365a579d7a72671/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/ccc8f7ccaabc56a9795de10aa92eb897/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/ccc8f7ccaabc56a9795de10aa92eb897/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vamsi/.gradle/caches/8.9/transforms/c466bf75ffd018408c54badcbe37ecf1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vamsi/.gradle/caches/8.9/transforms/c466bf75ffd018408c54badcbe37ecf1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/vamsi/.gradle/caches/8.9/transforms/c6411e28a07ee30e5365a579d7a72671/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/vamsi/.gradle/caches/8.9/transforms/c6411e28a07ee30e5365a579d7a72671/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/vamsi/.gradle/caches/8.9/transforms/c6411e28a07ee30e5365a579d7a72671/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/vamsi/.gradle/caches/8.9/transforms/c6411e28a07ee30e5365a579d7a72671/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/vamsi/.gradle/caches/8.9/transforms/c6411e28a07ee30e5365a579d7a72671/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/vamsi/.gradle/caches/8.9/transforms/c6411e28a07ee30e5365a579d7a72671/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/vamsi/.gradle/caches/8.9/transforms/c6411e28a07ee30e5365a579d7a72671/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/79daa0bd70b8462285be90bd2e5109e7/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/79daa0bd70b8462285be90bd2e5109e7/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/79daa0bd70b8462285be90bd2e5109e7/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.cinepilot.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/79daa0bd70b8462285be90bd2e5109e7/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/79daa0bd70b8462285be90bd2e5109e7/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/79daa0bd70b8462285be90bd2e5109e7/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/79daa0bd70b8462285be90bd2e5109e7/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/79daa0bd70b8462285be90bd2e5109e7/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.cinepilot.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/79daa0bd70b8462285be90bd2e5109e7/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/79daa0bd70b8462285be90bd2e5109e7/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/ccc8f7ccaabc56a9795de10aa92eb897/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/ccc8f7ccaabc56a9795de10aa92eb897/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/ccc8f7ccaabc56a9795de10aa92eb897/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

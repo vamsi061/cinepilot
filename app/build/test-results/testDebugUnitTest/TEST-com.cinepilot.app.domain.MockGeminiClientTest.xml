@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cinepilot.app.domain.MockGeminiClientTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-10-31T14:46:41" hostname="MacBook-Air.local" time="0.004">
+  <properties/>
+  <testcase name="play command yields PLAY_MOVIE with a title" classname="com.cinepilot.app.domain.MockGeminiClientTest" time="0.001"/>
+  <testcase name="free text is treated as a search rather than dropped" classname="com.cinepilot.app.domain.MockGeminiClientTest" time="0.001"/>
+  <testcase name="blank utterance yields UNKNOWN" classname="com.cinepilot.app.domain.MockGeminiClientTest" time="0.0"/>
+  <testcase name="pause yields PAUSE" classname="com.cinepilot.app.domain.MockGeminiClientTest" time="0.001"/>
+  <testcase name="search command yields SEARCH_MOVIE with a query" classname="com.cinepilot.app.domain.MockGeminiClientTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cinepilot.app.domain.IntentParserTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2026-10-31T14:41:29" hostname="MacBook-Air.local" time="0.003">
+  <properties/>
+  <testcase name="malformed json falls back" classname="com.cinepilot.app.domain.IntentParserTest" time="0.002"/>
+  <testcase name="parses a well formed response" classname="com.cinepilot.app.domain.IntentParserTest" time="0.0"/>
+  <testcase name="unknown intent name falls back and keeps the utterance" classname="com.cinepilot.app.domain.IntentParserTest" time="0.0"/>
+  <testcase name="confidence defaults when absent" classname="com.cinepilot.app.domain.IntentParserTest" time="0.0"/>
+  <testcase name="maps an unknown streaming service to UNKNOWN" classname="com.cinepilot.app.domain.IntentParserTest" time="0.001"/>
+  <testcase name="json null title becomes kotlin null not the string null" classname="com.cinepilot.app.domain.IntentParserTest" time="0.0"/>
+  <testcase name="parses a known streaming service" classname="com.cinepilot.app.domain.IntentParserTest" time="0.0"/>
+  <testcase name="strips a bare code fence" classname="com.cinepilot.app.domain.IntentParserTest" time="0.0"/>
+  <testcase name="strips a json code fence" classname="com.cinepilot.app.domain.IntentParserTest" time="0.0"/>
+  <testcase name="empty model output falls back" classname="com.cinepilot.app.domain.IntentParserTest" time="0.0"/>
+  <testcase name="clamps confidence to the unit interval" classname="com.cinepilot.app.domain.IntentParserTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

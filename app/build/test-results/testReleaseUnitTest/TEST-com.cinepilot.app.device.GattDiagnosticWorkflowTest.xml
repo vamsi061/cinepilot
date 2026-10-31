@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cinepilot.app.device.GattDiagnosticWorkflowTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-10-31T14:41:29" hostname="MacBook-Air.local" time="0.046">
+  <properties/>
+  <testcase name="security exception maps to PermissionDenied" classname="com.cinepilot.app.device.GattDiagnosticWorkflowTest" time="0.036"/>
+  <testcase name="disconnection maps to Disconnected" classname="com.cinepilot.app.device.GattDiagnosticWorkflowTest" time="0.001"/>
+  <testcase name="a slow enumeration is cut off by the timeout" classname="com.cinepilot.app.device.GattDiagnosticWorkflowTest" time="0.004"/>
+  <testcase name="generic error maps to Error" classname="com.cinepilot.app.device.GattDiagnosticWorkflowTest" time="0.0"/>
+  <testcase name="success result maps to Success carrying the service table" classname="com.cinepilot.app.device.GattDiagnosticWorkflowTest" time="0.002"/>
+  <testcase name="an enumeration inside the deadline succeeds" classname="com.cinepilot.app.device.GattDiagnosticWorkflowTest" time="0.0"/>
+  <testcase name="missing permissions short circuits to PermissionDenied without enumerating" classname="com.cinepilot.app.device.GattDiagnosticWorkflowTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

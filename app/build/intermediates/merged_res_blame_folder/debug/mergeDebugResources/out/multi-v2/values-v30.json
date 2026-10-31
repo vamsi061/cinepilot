@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.cinepilot.app-mergeDebugResources-44:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/Users/vamsi/.gradle/caches/8.9/transforms/d1811e061cdba2eea6014e95056c2066/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

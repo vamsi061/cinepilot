@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cinepilot.app.domain.CommandRouterTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2026-10-31T14:46:41" hostname="MacBook-Air.local" time="0.005">
+  <properties/>
+  <testcase name="unknown intent is unsupported" classname="com.cinepilot.app.domain.CommandRouterTest" time="0.002"/>
+  <testcase name="open app with an unknown service is unsupported" classname="com.cinepilot.app.domain.CommandRouterTest" time="0.001"/>
+  <testcase name="search with no query is unsupported" classname="com.cinepilot.app.domain.CommandRouterTest" time="0.0"/>
+  <testcase name="search routes to SearchMovies" classname="com.cinepilot.app.domain.CommandRouterTest" time="0.0"/>
+  <testcase name="volume direction is read from the query" classname="com.cinepilot.app.domain.CommandRouterTest" time="0.0"/>
+  <testcase name="open app with a known service routes to OpenStreamingApp" classname="com.cinepilot.app.domain.CommandRouterTest" time="0.001"/>
+  <testcase name="pause and resume both map to a transport toggle" classname="com.cinepilot.app.domain.CommandRouterTest" time="0.0"/>
+  <testcase name="stop maps to TransportStop" classname="com.cinepilot.app.domain.CommandRouterTest" time="0.0"/>
+  <testcase name="play with a title routes to PlayTitle" classname="com.cinepilot.app.domain.CommandRouterTest" time="0.0"/>
+  <testcase name="play with neither title nor query is unsupported" classname="com.cinepilot.app.domain.CommandRouterTest" time="0.0"/>
+  <testcase name="play falls back to the query when title is absent" classname="com.cinepilot.app.domain.CommandRouterTest" time="0.0"/>
+  <testcase name="channel change is explicitly unsupported" classname="com.cinepilot.app.domain.CommandRouterTest" time="0.0"/>
+  <testcase name="home maps to NavigateHome" classname="com.cinepilot.app.domain.CommandRouterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

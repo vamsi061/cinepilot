@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.cinepilot.app-release-42:/xml_file_paths.xml.flat",
+        "source": "com.cinepilot.app-main-43:/xml/file_paths.xml"
+    }
+]

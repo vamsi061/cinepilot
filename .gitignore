@@ -1,0 +1,10 @@
+*.apk
+/.gradle
+/build/
+.idea/
+*.iml
+.catch/
+**/.rea-evidence/
+
+# Large reverse-engineering evidence dumps
+.rea-evidence/jiohome-dex-fields-methods.txt

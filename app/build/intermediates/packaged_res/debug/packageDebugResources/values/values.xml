@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_description">CinePilot</string>
+    <string name="app_name">CinePilot</string>
+    <string name="bluetooth_disabled">Bluetooth is disabled</string>
+    <string name="bt_remote_intent_button">Launch Jio Remote App</string>
+    <string name="bt_remote_intent_result_not_found">Jio remote app not found</string>
+    <string name="bt_remote_intent_result_ok">Jio remote app launched</string>
+    <string name="characteristics_found">Characteristics: %1$d</string>
+    <string name="command_result">Command result: %1$s</string>
+    <string name="device_name">%1$s</string>
+    <string name="error_audio">Audio recording error</string>
+    <string name="error_network">Network error</string>
+    <string name="error_permissions">Microphone permission not granted</string>
+    <string name="intent_type_play">Play Movie</string>
+    <string name="intent_type_search">Search Movies</string>
+    <string name="intent_type_unknown">Unknown Command</string>
+    <string name="listening">Listening...</string>
+    <string name="microphone_content_description">Listen for voice command</string>
+    <string name="no_match">No speech recognized</string>
+    <string name="no_stb_found">No Jio STB discovered. Ensure your STB and phone are on the same Wi-Fi.</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="permission_rationale_audio">CinePilot needs microphone access to process voice commands.</string>
+    <string name="permission_rationale_bluetooth">CinePilot needs Bluetooth access to discover and control your Jio Hybrid STB.</string>
+    <string name="processing">Processing voice command...</string>
+    <string name="services_found">Services: %1$d</string>
+    <string name="start_bluetooth_discovery">Scan for STB</string>
+    <string name="stb_connected">Connected to STB</string>
+    <string name="stb_connecting">Searching for STB...</string>
+    <string name="stb_control_title">TV Control Test</string>
+    <string name="stb_device">STB Device</string>
+    <string name="stb_disconnected">Not connected</string>
+    <string name="stb_title">Jio Hybrid STB</string>
+    <string name="stop_bluetooth_discovery">Stop Scan</string>
+    <string name="stop_listening">Stop listening</string>
+    <string name="test_back_button">Back</string>
+    <string name="test_dpad_down">D-pad Down</string>
+    <string name="test_dpad_left">D-pad Left</string>
+    <string name="test_dpad_right">D-pad Right</string>
+    <string name="test_dpad_up">D-pad Up</string>
+    <string name="test_home_button">Home</string>
+    <string name="test_ok_button">OK</string>
+    <string name="test_power_button">Send Power On/Off</string>
+    <string name="voice_prompt">Tap the microphone to search for movies by voice</string>
+    <style name="Theme.CinePilot" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#0A1128</item>
+        <item name="android:navigationBarColor">#0A1128</item>
+        <item name="android:windowBackground">#0A1128</item>
+    </style>
+</resources>

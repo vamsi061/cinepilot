@@ -1,0 +1,216 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.cinepilot.app"
+4    android:versionCode="1"
+5    android:versionName="0.1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:5:5-79
+12-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+13-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:6:5-71
+13-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:6:22-68
+14    <uses-permission
+14-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:8:5-95
+15        android:name="android.permission.BLUETOOTH"
+15-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:8:22-65
+16        android:maxSdkVersion="30" />
+16-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:8:66-92
+17    <uses-permission
+17-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:9:5-101
+18        android:name="android.permission.BLUETOOTH_ADMIN"
+18-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:9:22-71
+19        android:maxSdkVersion="30" />
+19-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:9:72-98
+20    <uses-permission
+20-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:10:5-106
+21        android:name="android.permission.ACCESS_FINE_LOCATION"
+21-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:10:22-76
+22        android:maxSdkVersion="30" />
+22-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:10:77-103
+23    <uses-permission
+23-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:11:5-12:58
+24        android:name="android.permission.BLUETOOTH_SCAN"
+24-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:11:22-70
+25        android:usesPermissionFlags="neverForLocation" />
+25-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:12:9-55
+26    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+26-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:13:5-76
+26-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:13:22-73
+27
+28    <uses-feature
+28-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:15:5-91
+29        android:name="android.hardware.bluetooth_le"
+29-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:15:19-63
+30        android:required="false" />
+30-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:15:64-88
+31    <uses-feature
+31-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:16:5-88
+32        android:name="android.hardware.microphone"
+32-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:16:19-61
+33        android:required="true" />
+33-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:16:62-85
+34
+35    <!--
+36         Package visibility: allow queryIntentActivities to see the Jio remote handler.
+37         Without this, Android 11+ returns an empty list and the launch button reports
+38         "No installed app handles …" even when com.jio.home is present.
+39    -->
+40    <queries>
+40-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:21:5-27:15
+41        <package android:name="com.jio.home" />
+41-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:22:9-48
+41-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:22:18-45
+42
+43        <intent>
+43-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:23:9-26:18
+44            <action android:name="com.jio.btremoteapp.action.OPEN_BT_REMOTE" />
+44-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:24:13-80
+44-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:24:21-77
+45
+46            <category android:name="android.intent.category.DEFAULT" />
+46-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:25:13-72
+46-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:25:23-69
+47        </intent>
+48    </queries>
+49
+50    <permission
+50-->[androidx.core:core:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/79daa0bd70b8462285be90bd2e5109e7/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+51        android:name="com.cinepilot.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+51-->[androidx.core:core:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/79daa0bd70b8462285be90bd2e5109e7/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+52        android:protectionLevel="signature" />
+52-->[androidx.core:core:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/79daa0bd70b8462285be90bd2e5109e7/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+53
+54    <uses-permission android:name="com.cinepilot.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+54-->[androidx.core:core:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/79daa0bd70b8462285be90bd2e5109e7/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+54-->[androidx.core:core:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/79daa0bd70b8462285be90bd2e5109e7/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+55
+56    <application
+56-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:29:5-48:19
+57        android:name="com.cinepilot.app.CinePilotApplication"
+57-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:30:9-45
+58        android:allowBackup="false"
+58-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:31:9-36
+59        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+59-->[androidx.core:core:1.13.1] /Users/vamsi/.gradle/caches/8.9/transforms/79daa0bd70b8462285be90bd2e5109e7/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+60        android:debuggable="true"
+61        android:extractNativeLibs="false"
+62        android:hardwareAccelerated="true"
+62-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:35:9-43
+63        android:label="@string/app_name"
+63-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:32:9-41
+64        android:supportsRtl="true"
+64-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:33:9-35
+65        android:theme="@style/Theme.CinePilot" >
+65-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:34:9-47
+66        <activity
+66-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:37:9-47:20
+67            android:name="com.cinepilot.app.ui.MainActivity"
+67-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:38:13-44
+68            android:exported="true"
+68-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:39:13-36
+69            android:launchMode="singleTop"
+69-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:40:13-43
+70            android:screenOrientation="portrait"
+70-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:41:13-49
+71            android:windowSoftInputMode="adjustResize" >
+71-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:42:13-55
+72            <intent-filter>
+72-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:43:13-46:29
+73                <action android:name="android.intent.action.MAIN" />
+73-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:44:17-69
+73-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:44:25-66
+74
+75                <category android:name="android.intent.category.LAUNCHER" />
+75-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:45:17-77
+75-->/Users/vamsi/Desktop/CinePilot/app/src/main/AndroidManifest.xml:45:27-74
+76            </intent-filter>
+77        </activity>
+78        <activity
+78-->[androidx.compose.ui:ui-tooling-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/e275745fb2af426ba3d44ed5bc19ea9c/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+79            android:name="androidx.compose.ui.tooling.PreviewActivity"
+79-->[androidx.compose.ui:ui-tooling-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/e275745fb2af426ba3d44ed5bc19ea9c/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+80            android:exported="true" />
+80-->[androidx.compose.ui:ui-tooling-android:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/e275745fb2af426ba3d44ed5bc19ea9c/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+81        <activity
+81-->[androidx.compose.ui:ui-test-manifest:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/55e58590acde2c9e5c02ef5ff91b38ea/transformed/ui-test-manifest-1.7.3/AndroidManifest.xml:23:9-25:39
+82            android:name="androidx.activity.ComponentActivity"
+82-->[androidx.compose.ui:ui-test-manifest:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/55e58590acde2c9e5c02ef5ff91b38ea/transformed/ui-test-manifest-1.7.3/AndroidManifest.xml:24:13-63
+83            android:exported="true" />
+83-->[androidx.compose.ui:ui-test-manifest:1.7.3] /Users/vamsi/.gradle/caches/8.9/transforms/55e58590acde2c9e5c02ef5ff91b38ea/transformed/ui-test-manifest-1.7.3/AndroidManifest.xml:25:13-36
+84
+85        <provider
+85-->[androidx.emoji2:emoji2:1.3.0] /Users/vamsi/.gradle/caches/8.9/transforms/c6411e28a07ee30e5365a579d7a72671/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+86            android:name="androidx.startup.InitializationProvider"
+86-->[androidx.emoji2:emoji2:1.3.0] /Users/vamsi/.gradle/caches/8.9/transforms/c6411e28a07ee30e5365a579d7a72671/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+87            android:authorities="com.cinepilot.app.androidx-startup"
+87-->[androidx.emoji2:emoji2:1.3.0] /Users/vamsi/.gradle/caches/8.9/transforms/c6411e28a07ee30e5365a579d7a72671/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+88            android:exported="false" >
+88-->[androidx.emoji2:emoji2:1.3.0] /Users/vamsi/.gradle/caches/8.9/transforms/c6411e28a07ee30e5365a579d7a72671/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+89            <meta-data
+89-->[androidx.emoji2:emoji2:1.3.0] /Users/vamsi/.gradle/caches/8.9/transforms/c6411e28a07ee30e5365a579d7a72671/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+90                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+90-->[androidx.emoji2:emoji2:1.3.0] /Users/vamsi/.gradle/caches/8.9/transforms/c6411e28a07ee30e5365a579d7a72671/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+91                android:value="androidx.startup" />
+91-->[androidx.emoji2:emoji2:1.3.0] /Users/vamsi/.gradle/caches/8.9/transforms/c6411e28a07ee30e5365a579d7a72671/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+92            <meta-data
+92-->[androidx.lifecycle:lifecycle-process:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/ccc8f7ccaabc56a9795de10aa92eb897/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:29:13-31:52
+93                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+93-->[androidx.lifecycle:lifecycle-process:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/ccc8f7ccaabc56a9795de10aa92eb897/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:30:17-78
+94                android:value="androidx.startup" />
+94-->[androidx.lifecycle:lifecycle-process:2.8.6] /Users/vamsi/.gradle/caches/8.9/transforms/ccc8f7ccaabc56a9795de10aa92eb897/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:31:17-49
+95            <meta-data
+95-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+96                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+96-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+97                android:value="androidx.startup" />
+97-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+98        </provider>
+99
+100        <receiver
+100-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+101            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+101-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+102            android:directBootAware="false"
+102-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+103            android:enabled="true"
+103-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+104            android:exported="true"
+104-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+105            android:permission="android.permission.DUMP" >
+105-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+106            <intent-filter>
+106-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+107                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+107-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+107-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+108            </intent-filter>
+109            <intent-filter>
+109-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+110                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+110-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+110-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+111            </intent-filter>
+112            <intent-filter>
+112-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+113                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+113-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+113-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+114            </intent-filter>
+115            <intent-filter>
+115-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+116                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+116-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+116-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vamsi/.gradle/caches/8.9/transforms/bc71122093c881b653a73e6418b3e448/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+117            </intent-filter>
+118        </receiver>
+119    </application>
+120
+121</manifest>
